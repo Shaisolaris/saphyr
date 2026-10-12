@@ -8,3 +8,5 @@
 *.swp
 fuzz/artifacts
 fuzz/corpus
+config.bat
+node_modules
